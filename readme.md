@@ -1,9 +1,9 @@
-TFC wallet {style="font-weight: bold;"}
+TFC wallet 
 ==========
 
 ![](./thum.gif)
 
-welcome to The Freedom Coder {align="center"}
+welcome to The Freedom Coder 
 ============================
 
 #### Simple javascript Project \#1 {align="center"}
